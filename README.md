@@ -1,4 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I am Ken Tsui
+I am a product-minded machine learning engineer lead, and a open source small language model/ LLM researcher. 
+
+### Product
+I lead ML R&D, and prototypes in following products.
+- [Arbor](https://newspresso.arborit.ai/), which tailors a daily update of your professional topics with AI
+- [SuperAcc](https://superacc.ai/), a banking grade document intelligence SaaS for FIs
+
+### Research
+I work on LLM data curation/ filtering for pretraining data, small language model, alignment particularly in hallucination, information retrieval.
+- Textbook quality classifiers with throughput of > 2000 docs/s
+   - [llm-data-textbook-quality-fasttext-classifier-v2](https://huggingface.co/kenhktsui/llm-data-textbook-quality-fasttext-classifier-v2)
+   - [fineweb-edu-fasttext-classifier](https://huggingface.co/kenhktsui/fineweb-edu-fasttext-classifier)
+   - [Low Latency CPU Based Educational Value Classifier With Generic Educational Value](https://huggingface.co/blog/kenhktsui/edu-value-classifier-cpu)
+- Small language model training from scatch
+  - [nano-phi-115M-v0.1](https://huggingface.co/kenhktsui/nano-phi-115M-v0.1)
+  - [nano-phi-192M-v0.1](https://huggingface.co/kenhktsui/nano-phi-192M-v0.1) 
+
+### Handles
+Huggingface: [kenhktsui](https://huggingface.co/kenhktsui)  
+Medium: [kentsui](https://medium.com/@kentsui)  
+Twitter: [kantsuiex](https://x.com/kantsuiex)  
+Linkedin: [Ken Tsui](https://www.linkedin.com/in/ken-tsui-06889b29/)  
+Gitlab (commits in my job): [kenhktsui](https://gitlab.com/kenhktsui)  
+
 
 <!--
 **kenhktsui/kenhktsui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
