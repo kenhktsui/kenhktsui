@@ -1,5 +1,7 @@
+Follow me on [X](https://twitter.com/kantsuiex/) • 🤗 [Hugging Face](https://huggingface.co/kenhktsui) • 💻 [Medium](https://medium.com/@kentsui)
+
 ## Hi there 👋 I am Ken Tsui
-I am a product-minded machine learning engineer lead, and a open source small language model/ LLM researcher. 
+I am a product-minded machine learning engineer lead, a open source small language model/ LLM researcher, and a blogger.
 
 ### Product
 I lead ML R&D, and prototypes in following products.
@@ -7,7 +9,7 @@ I lead ML R&D, and prototypes in following products.
 - [SuperAcc](https://superacc.ai/), a banking grade document intelligence SaaS for FIs
 
 ### Research
-I work on LLM data curation/ filtering for pretraining data, small language model, alignment particularly in hallucination, information retrieval.
+I work on LLM data curation/ filtering for pretraining data, small language model training, alignment particularly in hallucination, and information retrieval.
 - Textbook quality classifiers with throughput of > 2000 docs/s
    - [llm-data-textbook-quality-fasttext-classifier-v2](https://huggingface.co/kenhktsui/llm-data-textbook-quality-fasttext-classifier-v2)
    - [fineweb-edu-fasttext-classifier](https://huggingface.co/kenhktsui/fineweb-edu-fasttext-classifier)
