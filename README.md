@@ -1,4 +1,4 @@
-Follow me on [X](https://twitter.com/kantsuiex/) • 🤗 [Hugging Face](https://huggingface.co/kenhktsui) • 💻 [Medium](https://medium.com/@kentsui)
+Follow me on [X](https://twitter.com/kenhktsui/) • 🤗 [Hugging Face](https://huggingface.co/kenhktsui) • 💻 [Medium](https://medium.com/@kentsui)
 
 ## Hi there 👋 I am Ken Tsui
 I am a product-minded machine learning engineer lead, a open source small language model/ LLM researcher, and a blogger.
