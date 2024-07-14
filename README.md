@@ -21,7 +21,7 @@ I work on LLM data curation/ filtering for pretraining data, small language mode
 ### Handles
 Huggingface: [kenhktsui](https://huggingface.co/kenhktsui)  
 Medium: [kentsui](https://medium.com/@kentsui)  
-Twitter: [kantsuiex](https://x.com/kantsuiex)  
+Twitter: [kenhktsui](https://x.com/kenhktsui)  
 Linkedin: [Ken Tsui](https://www.linkedin.com/in/ken-tsui-06889b29/)  
 Gitlab (commits in my job): [kenhktsui](https://gitlab.com/kenhktsui)  
 
