@@ -10,6 +10,7 @@ I lead ML R&D, and prototypes in following products.
 
 ### Research
 I mostly work on LLM data curation/ filtering for pretraining data, small language model training and synthetic data generation.
+- [AnyClassifier](https://github.com/kenhktsui/anyclassifier) - One Line To Build Zero-Data Classifiers in Minutes, And A Step Towards The First AI ML Engineer
 - Textbook quality classifiers with throughput of > 2000 docs/s
    - [llm-data-textbook-quality-fasttext-classifier-v2](https://huggingface.co/kenhktsui/llm-data-textbook-quality-fasttext-classifier-v2)
    - [fineweb-edu-fasttext-classifier](https://huggingface.co/kenhktsui/fineweb-edu-fasttext-classifier)
